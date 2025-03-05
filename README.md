@@ -11,11 +11,11 @@ Tento projekt je zaměřen na porovnání výkonu různých matematických výpo
 
 ## Použité knihovny (prozatím)
 Projekt využívá následující knihovny:
-- **NumPy** – pro efektivní práci s vektory a maticemi.
-- **SciPy** – pro pokročilé numerické výpočty, integrace a optimalizaci.
-- **SymPy** – pro symbolickou matematiku a manipulaci s algebraickými výrazy.
-- **Numba** – pro akceleraci výpočtů pomocí JIT kompilace.
-- **Matplotlib/Seaborn** – pro vizualizaci výsledků měření.
+- `NumPy` – pro efektivní práci s vektory a maticemi.
+- `SciPy` – pro pokročilé numerické výpočty, integrace a optimalizaci.
+- `SymPy` – pro symbolickou matematiku a manipulaci s algebraickými výrazy.
+- `Numba` – pro akceleraci výpočtů pomocí JIT kompilace.
+- `Matplotlib/Seaborn` – pro vizualizaci výsledků měření.
 
 
 ## Očekávané výsledky
