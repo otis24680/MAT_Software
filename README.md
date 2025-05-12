@@ -1,9 +1,9 @@
-# 🧠 Matematické modelování v Pythonu – SIR, Lotka–Volterra, Zombie apokalypsa
+# Matematické modelování v Pythonu – SIR, Lotka–Volterra, Zombie apokalypsa
 
 Tento repozitář obsahuje sadu simulačních modelů vytvořených v rámci předmětu **Matematický software**.  
 Cílem projektu bylo implementovat, upravovat a analyzovat dynamické matematické modely pomocí Pythonu a knihoven jako `NumPy`, `SciPy` a `Matplotlib`.
 
-## 📁 Obsah
+## Obsah
 
 ### 1. SIR model – šíření infekčních nemocí
 - Simulace epidemií: chřipka, spalničky, malárie, nachlazení, COVID-19
